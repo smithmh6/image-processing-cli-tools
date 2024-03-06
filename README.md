@@ -1,1 +1,0 @@
-# image-processing-cli-tools
